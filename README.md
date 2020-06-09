@@ -1,5 +1,5 @@
 # ReadMe
-You can check the source code of my private repositories for projects mentioned at my LinkedIn by emailing me at bkoo3@gmu.edu.
+Email me at bkoo3@gmu.edu to check the source code of my private repositories for projects mentioned at my LinkedIn as below:
 
 - Distance Vector Routing (DVR) algorithm 
 - Musical Chairs in Haskell Concurrency 
