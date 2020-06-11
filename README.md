@@ -8,12 +8,14 @@ Java
 - Virtual Filesystem 
 - Text Processor
 - SQL program with JDBC
+
+Java Data Structures
 - Color Blob Detector with Disjoint Sets (Union-Find) 
+- Postfix Processor with Stack, Queue, and Linear-Probing Hash Table
 - Decoding Cyphertext with Encoding K-ary Trees 
 - Generic 2D Grid for various kinds of 2D tables
-- Postfix Processor with Stack, Queue, and Linear-Probing Hash Table
 
-Java Concurrency
+Java Concurrent and Distributed System
 - Distance Vector Routing (DVR)  
 - Musical Chairs
 - Consistent, Fault-tolerant, and Distributed Key/Value Store using ZooKeeper 
@@ -32,6 +34,15 @@ Haskell
 - Image Processing: Seam Carving 
 - PrimeFactors, CoPrimes, Tribonacci, MaxTwo, Reversed, Clockwise, ZipWith, TakeWhile
 - State Monad, Maybe Monad, List Monad, IO Monad
+
+C	Low-Level application
+- Omega I Invariant Cipher
+- DNA Sequencing
+- Food Delivery
+
+C	Systems programming
+- Floating-Point Representation 
+- Paged/Virtual Memory
 
 Prolog
 - Resetting Passphrase and Security Questions and Answers
