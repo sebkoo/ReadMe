@@ -1,5 +1,5 @@
 # ReadMe
-Email me at bkoo3@gmu.edu to check the source code of my private repositories for projects on my LinkedIn as below:
+Please email me at bkoo3@gmu.edu to check the source code of my private repositories for projects on my LinkedIn as below:
 
 Java
 - Image Processing: Seam Carving
